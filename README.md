@@ -22,9 +22,13 @@ Provide Insights to Revnue Team in Hospitality Domain.
 
 
 ![1](https://user-images.githubusercontent.com/97013097/204128833-476dd2f9-3cb7-4778-b905-e3fe5c9ccb89.png)
+
+
+
 ------------------------
 Link to Live Dashboard : https://www.novypro.com/project/-hospitality-analysis
 ------------------------
+
 
 
 ![2](https://user-images.githubusercontent.com/97013097/204128835-47e03ce6-9daf-414f-9b73-c8f1d3523af6.png)
